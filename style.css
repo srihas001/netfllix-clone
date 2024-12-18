@@ -1,0 +1,415 @@
+.main{
+    background-image: url(IN-en-20241209-TRIFECTA-perspective_4aef76eb-7d5b-4be0-93c0-5f67320fd878_large.jpg);
+    height: 100vh;
+    width: 100%;
+    
+    object-fit: cover;
+    background-position: center;
+}
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.box{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    gap: 15px;
+    
+    
+    
+}
+.sri2 a{
+    text-decoration: none;
+    color: white;
+}
+.hi{
+    
+   font-size: 60px;
+    color:  white;
+    font-weight: 810;
+    position: relative;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom: 0;
+    line-height: 0.5;
+}
+.hii{
+    font-size: 60px;
+    color:  white;
+    font-weight: 810;
+    position: relative;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    align-items: center;
+    justify-content: center;
+
+}
+.hi2{
+    color: white;
+    font-size: 18px;
+    line-height: 3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.is{
+    width: 450px;
+    height: 50px;
+    font-size: 15px;
+    background-color: transparent;
+    border-radius: 4px;
+    color: white;
+}
+
+
+
+
+    
+
+
+.hi1{
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+}
+.iam1, .iam2{
+    font-size: 25px;
+    padding: 10px;
+}
+.iam{
+    display: flex;
+    gap: px;
+    margin-right: 80px;
+
+    
+}
+.we{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    align-items: center;
+    z-index: 10;
+    top: 20px; /* Moves logo and buttons near the top */
+    left: 20px;
+    right: 20px;
+
+}
+.we1 img{
+    width: 150px;
+    height: 150px;
+    margin-left: 105px;
+    margin-top: -55px;
+}
+.border1{
+    height: 6px;
+    width: 100%;
+    background-color: grey;
+}
+.srihasimg img{
+    width: 440px;
+    display: block;
+    z-index: 10;
+    width: 100%;
+    position: relative;
+   
+}
+.srihasimg video{
+    width: 408px;
+   position: absolute;
+    z-index: 1;
+   
+    top: -120px;
+    left: 59px;
+    height: 608px;
+    border: none;
+
+    
+}
+.srihasimg{
+    position: relative;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+.iam1 button{
+    background-color: transparent;
+    color: white;
+    font-size: 16px;
+    gap: 9px;
+    border-radius: 4px;
+    font-weight: 200;
+    width: 140px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.chinnu2 img{
+    width: 8px;
+    padding:3px;
+}
+
+
+.iam1, .iam2{
+    margin-top: -55px;
+}
+.iam2 button{
+    background-color: red;
+    font-size: 15px;
+    color: white;
+    padding: 8px;
+    border-radius: 6px;
+    font-weight: 400;
+    height: 35px;
+    
+}
+.chinnu{
+    margin-right: 10px;
+}
+
+.sri{
+    display: flex;
+    gap: 10px;
+}
+.sri2 button{
+    width: 170px;
+    height: 55px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    border-radius: 6px;
+    display: flex;
+    text-align: center;
+    gap: 10px;
+    justify-content: center;
+}
+.sri{
+    line-height: 0.6 ;
+}
+.sri2 img{
+    width: 20px;
+    display: flex;
+    text-align: center;
+    margin-top: 4px;
+}
+.iam2  button a{
+    text-decoration: none;
+    color: white;
+}
+.them{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+
+}
+.them1{
+    background-color: black;
+    width: 70vw;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+.them2{
+    background-color: black;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+.chinnu20{
+    background-color: black;
+}
+.srihasimg1 img{
+    width: 450px;
+    height: 350px;
+    object-fit: cover;
+}
+.srihas23{
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+    margin-left:20px ;
+   
+   
+    font-weight: 900;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    
+}
+.srihas24{
+    font-size: 20px;
+    margin-left:20px ;
+    padding: 10px;
+    color: white;
+    font-weight: 800;
+
+
+}
+.srihas25{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    padding: 0px;
+}
+.srihas21{
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+    margin-left:300px ;
+   
+    font-weight: 900;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.srihas22{
+    display: flex;
+    flex-direction: column;
+    margin-left: 300px;
+    font-size: 20px;
+    padding: 0px;
+    color: white;
+
+}
+h1{
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+.chinnu30{
+    background-color: rgb(69, 68, 68);
+    width: 750px;
+    height: 30px;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
+.chinnu31{
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.chinnu30 img{
+    padding: 4px;
+
+
+}
+.chinnu29{
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.chinnu32{
+    color: white;
+    text-align: center;
+    padding: 15px;
+    line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sri12 button{
+    width: 140px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    border-radius: 6px;
+    display: flex;
+    text-align: center;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.sri{
+    display: flex;
+    gap: 10px;
+    line-height: 0.6 ;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 34px;
+}
+.sri12 img{
+    width: 20px;
+    display: flex;
+    text-align: center;
+    margin-top: 4px;
+}
+.sri12 a{
+    text-decoration: none;
+    color: white;
+}
+.is1{
+    width: 300px;
+    height: 36px;
+    font-size: 15px;
+    background-color: transparent;
+    border-radius: 4px;
+    color: white;
+}
+.sri40{
+    color:rgb(187, 183, 183);
+    padding-top: 40px;
+    margin-left: 140px;
+}
+.sri40 a{
+    color:rgb(187, 183, 183);
+}
+.sri41{
+    color: rgb(187, 183, 183);
+
+}
+.sri41 a{
+    margin-left: 145px;
+}
+.sri39{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    color: rgb(142, 138, 138);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    gap: 15px;
+    font-size: 12px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.sri39 a{
+    color: rgb(187, 183, 183);
+}
+.end{
+    color:rgb(187, 183, 183);
+    margin-left: 145px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.iam4 button{
+    background-color: black;
+    color: white;
+    margin-left: 145px;
+
+}
